@@ -2,3 +2,12 @@ title: Charlie Mei
 description: strategy & analytics / cu / nyc / au
 base_url: "https://charlie-mei.github.io/"
 favicon: assets/favicon.png
+
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - icon: fa-github
+      href: "https://github.com/Charlie-Mei"
+    - icon: fa-linkedin
+      href: "https://www.linkedin.com/in/charlie-mei/"
