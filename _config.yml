@@ -19,8 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Charlie's Portfolio
-email: charlie.mei@outlook.com
-description: strategy & analytics / cu / nyc / au
+author:
+  name: Charlie Mei
+  email: charlie.mei@outlook.com
+description: >
+  strategy & analytics / cu / nyc / au
 baseurl: "charlie-mei.github.io"
 url: "charlie-mei.github.io"
 github_username:  Charlie-Mei
