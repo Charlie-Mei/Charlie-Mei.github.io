@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Predicting Airbnb Prices
 date: '2019-12-21'
 slug: predicting-airbnb-prices

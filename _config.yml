@@ -4,4 +4,6 @@ description: strategy & analytics / cu / nyc / au
 favicon: assets/favicon.png
 
 # Collections
-include: [_portfolio]
+collections:
+  portfolio:
+    output: true
