@@ -1,7 +1,4 @@
-theme: jekyll-theme-minimal
 title: Charlie Mei
 description: strategy & analytics / cu / nyc / au
+base_url: "https://charlie-mei.github.io/"
 favicon: assets/favicon.png
-
-github_username: Charlie-Mei
-linkedin_username: Charie Mei
