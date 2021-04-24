@@ -1,0 +1,15 @@
+name: "charlie-mei.github.io"
+title: "Charlie's Portfolio"
+description: strategy & analytics / cu / nyc / au
+base_url: https://charlie-mei.github.io
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - icon: fa-envelope-o
+      href: mailto:charlie.mei@outlook.com
+    - icon: fa-github
+      href: https://github.com/Charie-Mei
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/charlie-mei/
+#output: distill::distill_article
