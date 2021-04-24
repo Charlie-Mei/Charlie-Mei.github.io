@@ -24,10 +24,13 @@ author:
   email: charlie.mei@outlook.com
 description: >
   strategy & analytics / cu / nyc / au
+
+show_excerpts: true
+
 baseurl: "charlie-mei.github.io"
 url: "charlie-mei.github.io"
 github_username:  Charlie-Mei
-linkedin_username: charlie-mei
+linkedin: charlie-mei
 
 # Build settings
 theme: minima
