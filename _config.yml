@@ -22,14 +22,13 @@ title: Charlie's Portfolio
 email: charlie.mei@outlook.com
 description: >
   strategy & analytics / cu / nyc / au
-
-show_excerpts: true
-
 baseurl: "charlie-mei.github.io"
 url: "charlie-mei.github.io"
 github_username:  Charlie-Mei
-linkedin_username: charlie-mei
+linkedin_username: Charlie-Mei
 
+
+show_excerpts: true
 # Build settings
 theme: minima
 
