@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Predicting Airbnb Prices
 author: ''
 date: '2019-12-21'

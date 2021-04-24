@@ -20,21 +20,18 @@
 
 title: Charlie's Portfolio
 email: charlie.mei@outlook.com
-description: >
-  strategy & analytics / cu / nyc / au
-baseurl: "charlie-mei.github.io"
-url: "charlie-mei.github.io"
+description: >- # this means to ignore newlines until "baseurl:"
+  strategy & analytiics / columbia university / nyc / au
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Charlie-Mei
 linkedin_username: Charlie-Mei
 
-
-show_excerpts: true
 # Build settings
 theme: minima
-
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
