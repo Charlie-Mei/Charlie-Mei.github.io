@@ -3,8 +3,8 @@ title: Charlie Mei
 description: strategy & analytics / cu / nyc / au
 favicon: assets/favicon.png
 
-social_links:
-  linkedin: 
-    username: "https://www.linkedin.com/in/charlie-mei/"
-  github: 
-    username: "https://github.com/Charlie-Mei"
+# Collections
+collections: 
+  portfolio: 
+    output: true
+    permalink: /:collection/:path/
