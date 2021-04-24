@@ -20,10 +20,9 @@
 
 title: Charlie's Portfolio
 email: charlie.mei@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  strategy & analytics / cu / nyc / au
-baseurl: ""
-url: ""
+description: strategy & analytics / cu / nyc / au
+baseurl: "charlie-mei.github.io"
+url: "charlie-mei.github.io"
 github_username:  Charlie-Mei
 linkedin_username: Charlie Mei
 
