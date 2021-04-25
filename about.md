@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome!
+title: About
 permalink: /about/
 ---
 
-<center><img src="assets/portrait.jpeg" alt="drawing" width="200"/></center>
+<center> <img src="assets/portrait.jpeg" alt="drawing" width="200"/> </center>
 
 Hey there - welcome to my page!
 
