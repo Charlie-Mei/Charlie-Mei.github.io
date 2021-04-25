@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Helping advertisers understand their customer markets
+title: Strategizing customer retention with customer review data
 author: ''
 ---
 
