@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Predicting Airbnb Prices
 author: ''
 slug: predicting-airbnb-prices
