@@ -8,7 +8,7 @@ The rise of Airbnb has provided travelers with an alluring alternate method of a
 
 This project provides an exploration of different machine learning models in order to understand how best to predict Airbnb prices. This project was based on a dataset consisting of 90 features related to the property, the host and the reviews of over 35,000 rental properties.
 
-A link to the source code and the methodology can be found on GitHub  [here](https://github.com/Charlie-Mei/predict-airbnb-prices).
+A link to the source code and the methodology can be found on GitHub [here](https://github.com/Charlie-Mei/predict-airbnb-prices).
 
 ## What is meant by the best price model?
 
