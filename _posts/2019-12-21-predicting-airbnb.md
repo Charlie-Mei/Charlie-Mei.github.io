@@ -1,7 +1,6 @@
 ---
 title: Predicting Airbnb Prices
 author: ''
-date: '2019-12-21'
 slug: predicting-airbnb-prices
 ---
 
