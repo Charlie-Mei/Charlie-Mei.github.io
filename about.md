@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My name is Charlie Mei. I am a data analyst who helps financial, software and apparel merchants understand and optimize their affiliate marketing strategies. I am also a graduate student at Columbia University.
-
-For all inquiries: charlie.mei@outlook.com.
+I am a data analyst who helps software, financial and apparel merchants understand and optimize their affiliate marketing strategies. Prior to this role, I was a consultant who conducted impact analyses and modeling for a variety of clients (from community and health services, to utilities companies) to inform strategic planning.
