@@ -21,7 +21,7 @@ From this data, it was possible to understand:
 
 A wordcloud offers a quick exploratory way to understand the typical words used by reviewers of clothing products. It appears words such as "fit", "size" and "look" are among the top five words used. This result is interesting; thee words potentially reveal the main factors that customers are considering as they are considering whether or not to buy a certain clothing product.
 
-![](review-wordcloud.png)
+![](_posts/review-wordcloud.png)
 
 We also assigned sentiment scores to the words used by reviewers. Our method of score allocation was based on the "Afinn" lexicon, as that method anks words used by customers on a scale of -5 to 5, where the higher the number indicates the more positive the sentiment. Based on this approach, it appears that customers tended to have, on average, a positive sentiment on the clothing products offered by this retailer.
 
