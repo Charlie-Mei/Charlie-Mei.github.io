@@ -21,11 +21,11 @@ From this data, it was possible to understand:
 
 A wordcloud offers a quick exploratory way to understand the typical words used by reviewers of clothing products. It appears words such as "fit", "size" and "look" are among the top five words used. This result is interesting; thee words potentially reveal the main factors that customers are considering as they are considering whether or not to buy a certain clothing product.
 
-![](_posts/review-wordcloud.png)
+![](imgs/review-wordcloud.png)
 
 We also assigned sentiment scores to the words used by reviewers. Our method of score allocation was based on the "Afinn" lexicon, as that method anks words used by customers on a scale of -5 to 5, where the higher the number indicates the more positive the sentiment. Based on this approach, it appears that customers tended to have, on average, a positive sentiment on the clothing products offered by this retailer.
 
-![](average-clothing-sentiment.png)
+![](imgs/average-clothing-sentiment.png)
 
 ## Do certain words indicate higher likelihood of recommendation?
 
@@ -35,7 +35,7 @@ Random forest models are particularly useful in extracting the top explanatory f
 
 A variable importance plot visualizes the results from this analysis. The numeric axis indicates by how much each word/sentiment reduces the error in predicting recommendatio. Based on this approach, we identified consumer sentiment as the key predictor for recommending the product. In terms of words, "class", "return", "age" and "perfect" were all top predictors of recommendation too.
 
-![](random-forest-results.png)
+![](imgs/random-forest-results.png)
 
 ## Putting together the results
 
