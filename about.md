@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Hey there - wecome to my page!
+title: 
 permalink: /about/
 ---
+
+<h2>Hey there - wecome to my page!</h2>
+
+<br>
+<br>
 
 I am a data professional who helps software, financial and apparel merchants understand and optimize their affiliate marketing strategies. Previously, I was a consultant who conducted impact analyses and statistical modeling for a variety of clients (from community and health services, to utilities companies) to inform strategic planning.
 
