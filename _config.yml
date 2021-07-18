@@ -1,11 +1,11 @@
 title: Charlie Mei
 email: charlie.mei@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
+description:
   strategy & analytics / cu '21 / unimelb '16 / nyc / au
 baseurl: ""
 url: ""
-github_username:  Charlie-Mei
-linkedin_username: Charlie-Mei
+github_username:  
+linkedin_username: 
 
 # Show excerpts
 show_excerpts: true
