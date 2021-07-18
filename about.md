@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<center> <img src="images/portrait.jpeg" width="200"/> </center>
+<h2>Hey there - welcome to my page!</h2>
 
-Hey there - welcome to my page!
+<br>
+<br>
 
 I am a data analyst who helps software, financial and apparel merchants understand and optimize their affiliate marketing strategies. Previously, I was a consultant who conducted impact analyses and statistical modeling for a variety of clients (from community and health services, to utilities companies) to inform strategic planning.
 
