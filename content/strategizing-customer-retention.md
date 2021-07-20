@@ -1,8 +1,4 @@
----
-layout: post
-title: Strategizing customer retention with customer review data
-author: ''
----
+## Strategizing customer retention with customer review data
 
 As customer needs grow more and more complex and nuanced, businesses require an ever deeper understanding of their customers in order to boost customer retention and brand loayalty. Anonymized product reviews provide a treasure grove of data for companies to use to better understand their customer markets. 
 
@@ -17,7 +13,7 @@ From this data, it was possible to understand:
 - the overall sentiment for clothing items
 - whether there was a relationship between specific words/sentiment on whether they end up recommending the product to others.
 
-## Exploring the data
+### Exploring the data
 
 A wordcloud offers a quick exploratory way to understand the typical words used by reviewers of clothing products. It appears words such as "fit", "size" and "look" are among the top five words used. This result is interesting; thee words potentially reveal the main factors that customers are considering as they are considering whether or not to buy a certain clothing product.
 
@@ -27,7 +23,7 @@ We also assigned sentiment scores to the words used by reviewers. Our method of 
 
 ![Sentiment](imgs/average-clothing-sentiment.png)
 
-## Do certain words indicate higher likelihood of recommendation?
+### Do certain words indicate higher likelihood of recommendation?
 
 After constructing a vocabulary of words, we proceeded to use a random forest model to understand whether the words used in customer reviews and/or their sentiment can reveal likelihood of recommendation.
 
@@ -37,6 +33,6 @@ A variable importance plot visualizes the results from this analysis. The numeri
 
 ![Modeling Results](imgs/random-forest-results.png)
 
-## Putting together the results
+### Putting together the results
 
 The results from our analysis indicate that there is indeed value for businsses in using customer review data to understand their customers. While surveys and focus groups are traditional approaches, basic text analysis also offers a complementary tool to deriving new and potentially surprising strategies for reducing customer churn and increasing customer loyalty.
